@@ -8,7 +8,7 @@ public class SecondLargest {
         return secLargest;
     }
     public static void main(String[] args) {
-        int arr[] = {1,4,3,7,8} 
+        int arr[] = {1,4,3,7,8};
         System.out.println(solution(arr));
     }
 }
